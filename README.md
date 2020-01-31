@@ -1,1 +1,1 @@
-# Reac-Native-Time-Shop
+# Reac-Native-Magento-Shopwise
